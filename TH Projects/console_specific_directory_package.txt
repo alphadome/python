@@ -1,0 +1,14 @@
+pip install --install-option=\python-virtual-environments\wine_rating fuzzywuzzy
+
+C:\python-virtual-environments\wine_rating
+
+
+Use:
+
+pip install --install-option="--prefix=C:\python-virtual-environments\wine_rating" fuzzywuzzy
+
+
+virtualenv -p C:\python-virtual-environments\ iOSapp
+
+
+C:\python-virtual-environments\tutorial>venv\scripts\activate

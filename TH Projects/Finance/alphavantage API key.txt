@@ -1,0 +1,1 @@
+Welcome to Alpha Vantage! Here is your API key: 386JT8YPOT81S0X8. Please record this API key for future access to Alpha Vantage.

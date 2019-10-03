@@ -1,0 +1,20 @@
+Plan:
+
+strategies
+- alphas
+- different ways of trading back tested
+- trade duration
+- update date
+
+strategy compiler
+- optimal sharpe config of stocks
+
+portfolio complier
+- strategies are put into the optimiser not stocks
+- markowitz
+- efficient frontier
+- optimise sharpe
+- problem with bounded not allocated capital
+
+risk overview
+- bramen restrictions on stock components

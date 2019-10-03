@@ -1,0 +1,1 @@
+["OREP.PA", "SGEF.PA", "EONGn.DE", "CONG.DE", "GRLS.MC", "MOLB.BU"]
